@@ -1,5 +1,3 @@
-# android-lib-update
-
 # 使用 Dependabot 自动更新依赖 
 
 
@@ -12,5 +10,5 @@
 
 
 
-### https://dependabot.com/
+### 官网 https://dependabot.com/
 
