@@ -75,7 +75,7 @@ dependencies {
 
 
     //闪屏的动画库
-    implementation 'com.yanzhikai:TextPathView:0.0.6'
+    implementation 'com.yanzhikai:TextPathView:0.2.1'
 
     //RV帮助库
     implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46'
