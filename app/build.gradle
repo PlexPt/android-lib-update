@@ -52,7 +52,7 @@ dependencies {
     implementation 'com.tencent.bugly:crashreport_upgrade:latest.release'
 
     //这2个是MD对话框
-    implementation 'com.afollestad.material-dialogs:core:0.9.6.0'
+    implementation 'com.afollestad.material-dialogs:core:3.1.1'
     implementation 'com.afollestad.material-dialogs:commons:0.9.6.0'
 
     //底部导航
