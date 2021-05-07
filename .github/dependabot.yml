@@ -4,33 +4,5 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-  open-pull-requests-limit: 10
-  ignore:
-  - dependency-name: androidx.room:room-compiler
-    versions:
-    - 2.2.6
-  - dependency-name: androidx.recyclerview:recyclerview
-    versions:
-    - 1.2.0-beta01
-    - 1.2.0-beta02
-    - 1.2.0-rc01
-  - dependency-name: com.google.android.material:material
-    versions:
-    - 1.3.0
-    - 1.3.0-rc01
-    - 1.4.0-alpha01
-  - dependency-name: com.android.tools.build:gradle
-    versions:
-    - 4.1.2
-  - dependency-name: androidx.appcompat:appcompat
-    versions:
-    - 1.3.0-beta01
-  - dependency-name: org.jetbrains.kotlin:kotlin-stdlib
-    versions:
-    - 1.4.21-2
-  - dependency-name: org.jetbrains.kotlin:kotlin-gradle-plugin
-    versions:
-    - 1.4.21-2
-  - dependency-name: com.tencent.bugly:crashreport_upgrade
-    versions:
-    - 1.5.0
+  open-pull-requests-limit: 100
+ 
