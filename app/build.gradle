@@ -99,7 +99,7 @@ dependencies {
     implementation 'com.lzy.net:okgo:3.0.4'
 
     //json解析
-    implementation 'com.google.code.gson:gson:2.8.7'
+    implementation 'com.google.code.gson:gson:2.8.9'
     
     
 }
